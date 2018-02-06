@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name= 'imagescalespace', # Application name:
-	version= '0.1.0', # Version number
+	version= '0.1.1', # Version number
 
 	author= 'Masayuki Tanaka', # Author name
 	author_email= 'mastnk@gmail.com', # Author mail	
